@@ -1,0 +1,20 @@
+#!name= host
+#!desc= host
+
+[MITM]
+hostname = api.zhihu.com,
+www.zhihu.com,
+*.pangolin-sdk-toutiao,
+*.pangolin-sdk-toutiao.*,
+*.pstatp.com,*.pstatp.com.*,
+*.pglstatp-toutiao.com.*,
+*.pglstatp-toutiao.com,
+gurd.snssdk.com,
+gurd.snssdk.com.*,
+*default.ixigua.com,
+broadcast.chat.bilibili.com,
+api.biibili.com,
+*.pangolin-sdk-toutiao.*,
+webboot.zhangyue.com,
+saad.ms.zhangyue.net,
+bookbk.img.ireader.com
