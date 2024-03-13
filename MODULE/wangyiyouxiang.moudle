@@ -5,4 +5,9 @@
 [Rule]
 DOMAIN,iad.g.163.com,REJECT
 DOMAIN,api-access.pangolin-sdk-toutiao1.com,REJECT
+DOMAIN,api-access.pangolin-sdk-toutiao.com,REJECT
+DOMAIN,log-api.pangolin-sdk-toutiao-b.com,REJECT
+DOMAIN,sf3-fe-tos.pglstatp-toutiao.com,REJECT
+
+
 DOMAIN,mobads.baidu.com,REJECT
