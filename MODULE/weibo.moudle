@@ -3,3 +3,8 @@
 
 [Rule]
 DOMAIN,adstrategy.biz.weibo.com,REJECT
+URL-REGEX,^https?://api.weibo.cn/2/video/*,REJECT
+URL-REGEX,^https?://api.weibo.cn/2/users/*,REJECT
+URL-REGEX,^https?://api.weibo.cn/2/groups/allgroups/*,REJECT
+[MITM]
+hostname = api.weibo.cn
