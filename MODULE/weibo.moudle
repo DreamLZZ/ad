@@ -1,0 +1,6 @@
+#!name=微博
+#!desc=微博
+
+[Rule]
+DOMAIN,adstrategy.biz.weibo.com,REJECT
+DOMAIN,api-access.pangolin-sdk-toutiao1.com,REJECT
