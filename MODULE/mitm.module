@@ -1,6 +1,8 @@
 #!name= host
 #!desc= host
 
+[Rule]
+DOMAIN,abplatform.yumchina.com,REJECT
 [MITM]
 hostname = api.zhihu.com,
 www.zhihu.com,
