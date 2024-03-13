@@ -5,3 +5,4 @@
 [Rule]
 DOMAIN,iad.g.163.com,REJECT
 DOMAIN,api-access.pangolin-sdk-toutiao1.com,REJECT
+DOMAIN,mobads.baidu.com,REJECT
