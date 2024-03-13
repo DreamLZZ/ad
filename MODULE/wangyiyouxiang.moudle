@@ -8,6 +8,6 @@ DOMAIN,api-access.pangolin-sdk-toutiao1.com,REJECT
 DOMAIN,api-access.pangolin-sdk-toutiao.com,REJECT
 DOMAIN,log-api.pangolin-sdk-toutiao-b.com,REJECT
 DOMAIN,sf3-fe-tos.pglstatp-toutiao.com,REJECT
-
-
+DOMAIN,pg-ad-b1.ws.126.net,REJECT
+DOMAIN,lf-cdn-tos.bytescm.com,REJECT
 DOMAIN,mobads.baidu.com,REJECT
