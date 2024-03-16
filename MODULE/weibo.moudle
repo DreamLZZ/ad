@@ -3,8 +3,19 @@
 
 [Rule]
 DOMAIN,adstrategy.biz.weibo.com,REJECT
+DOMAIN,wbapp.uve.weibo.com,REJECT
 URL-REGEX,^https?://api.weibo.cn/2/video/*,REJECT
 URL-REGEX,^https?://api.weibo.cn/2/users/*,REJECT
 URL-REGEX,^https?://api.weibo.cn/2/groups/allgroups/*,REJECT
+
+#七猫小说
+DOMAIN,adsmind.ugdtimg.com,REJECT
+DOMAIN,p1-lm.adukwai.com,REJECT
+DOMAIN,v9-be-pack.pglstatp-toutiao.com,REJECT
+DOMAIN,open.e.kuaishou.com,REJECT
+DOMAIN,pgdt.ugdtimg.com,REJECT
+DOMAIN,webcast-open.douyin.com,REJECT
+DOMAIN,toblog.ctobsnssdk.com,REJECT
+DOMAIN,qm-ab.wtzw.com,REJECT
 [MITM]
 hostname = api.weibo.cn
