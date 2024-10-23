@@ -4,7 +4,7 @@
 [Rule]
 DOMAIN,adstrategy.biz.weibo.com,REJECT
 DOMAIN,wbapp.uve.weibo.com,REJECT
-URL-REGEX,^https?://api.weibo.cn/*,REJECT
+URL-REGEX,^https?://api.weibo.cn/!/*,REJECT
 
 DOMAIN,ef-dongfeng.tanx.com,REJECT
 
