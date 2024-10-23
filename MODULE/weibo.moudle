@@ -6,6 +6,9 @@ DOMAIN,adstrategy.biz.weibo.com,REJECT
 DOMAIN,wbapp.uve.weibo.com,REJECT
 URL-REGEX,^https?://api.weibo.cn/2/users/show/*,REJECT
 URL-REGEX,^https?://*.weibo.cn/*,DIRECT
+
+DOMAIN,ef-dongfeng.tanx.com,REJECT
+
 #七猫小说
 DOMAIN,adsmind.ugdtimg.com,REJECT
 DOMAIN,p1-lm.adukwai.com,REJECT
