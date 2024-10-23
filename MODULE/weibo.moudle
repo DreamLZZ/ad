@@ -6,6 +6,16 @@ DOMAIN,adstrategy.biz.weibo.com,REJECT
 DOMAIN,wbapp.uve.weibo.com,REJECT
 URL-REGEX,^https?://api.weibo.cn/!/*,REJECT
 
+
+DOMAIN,h5.sinaimg.cn,REJECT
+DOMAIN,dp.im.wei.cn,REJECT
+DOMAIN,gw.im.weibo.cn,REJECT
+DOMAIN,gw1.im.weibo.cn,REJECT
+DOMAIN-SUFFIX,biz.weibo.com,REJECT
+DOMAIN-SUFFIX,sdkapp.uve.weibo.com,REJECT
+DOMAIN-SUFFIX,ip.taobao.com,REJECT
+
+
 DOMAIN,ef-dongfeng.tanx.com,REJECT
 
 #七猫小说
